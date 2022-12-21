@@ -1,0 +1,3 @@
+[submodule "WechatPCAPI"]
+	path = WechatPCAPI
+	url = https://github.com/jwpl190/WechatPCAPI.git
